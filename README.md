@@ -152,5 +152,5 @@ Healthcare Analytics | Business Intelligence | Data Analytics
 
 ## 🔗 Technologies
 
-Python | SQL | SQLite | Power BI | DAX | Excel
+Python | SQLite | Power BI | DAX | Excel
 

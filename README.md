@@ -25,7 +25,6 @@ The main objectives of this project are:
 ## 🛠️ Tools & Technologies
 
 - Python
-- SQL
 - SQLite
 - Power BI
 - DAX
